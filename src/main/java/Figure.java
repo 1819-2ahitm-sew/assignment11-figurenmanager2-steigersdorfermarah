@@ -1,6 +1,4 @@
-
-
-abstract public class Figure extends Main{
+public abstract class Figure{
 
     abstract double area ();
     abstract double circumference ();
